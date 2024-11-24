@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Golf Courses Around the World</title>
+    <title>Top 5 Best Golf Courses Around the World</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Best Golf Courses Around the World</h1>
-        <p>Your ultimate guide to exploring golf courses worldwide.</p>
+        <h1>Top 5 Golf Courses Around the World</h1>
+        <p>Your ultimate guide to exploring the best golf courses worldwide.</p>
     </header>
 
     <section class="reviews">
@@ -21,11 +21,6 @@
             <p>This iconic course is one of the oldest and most prestigious in the world. It offers breathtaking views and challenging fairways.</p>
         </div>
 	<div class="course">
-		<h3>Augusta National (USA)</h3>
-		<img src="images/augusta-national.jpg" alt="Augusta National Golf Club">
-		<p><strong>Difficulty:</strong> Very Hard</p>
-		<p>Known for hosting the Masters tournament, this exclusive golf course features amazing greens and beautiful scenery.</p>
-	</div>
     </section>
 
     <footer>
